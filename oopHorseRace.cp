@@ -1,5 +1,0 @@
-#using namespace
-#
-
-//isWinner() boolean
-
