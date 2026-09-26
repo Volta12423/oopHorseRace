@@ -16,6 +16,7 @@ printLane(){
 	std::cout << std::endl;
 }
 int main(){
+	std::cout << "OOP Horse Race!!!" << std::endl;
 	std::cout << "Hello world" << std::endl;
 	return 0;
 
